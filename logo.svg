@@ -1,7 +1,7 @@
  <svg
         className="w-8 h-8"
-        fill="#F5A623" // Accent color
-        stroke="#fff" // Primary color
+        fill="#F5A623" 
+        stroke="#fff"
         strokeWidth="2"
         viewBox="0 0 24 24"
         xmlns="http://www.w3.org/2000/svg"
